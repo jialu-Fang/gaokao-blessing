@@ -3,8 +3,10 @@ import streamlit as st
 def bless_for_gaokao(name):
     return (
         f"亲爱的{name}：\n"
-        "高考在即，祝你沉着冷静、发挥自如，\n"
+        "高考在即，希望你考的全会，蒙的全对，\n"
         "所有努力都能在考场上得到回报，\n"
+        "相信你自己呀！，\n"
+        "你是最棒的，\n"
         "金榜题名，前程似锦！\n"
         "加油！"
     )
